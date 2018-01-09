@@ -3,3 +3,4 @@ def test1():
     return
 def text():
     print "text"
+    return
