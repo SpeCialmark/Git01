@@ -4,3 +4,8 @@ def test1():
 def text():
     print "text"
     return
+
+
+def aaa():
+    print('a')
+
