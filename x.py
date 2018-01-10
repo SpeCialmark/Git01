@@ -7,3 +7,6 @@ def text():
 
 
 #ertyuiop
+def aaa():
+    print('a')
+
