@@ -6,7 +6,6 @@ def text():
     return
 
 
-#ertyuiop
 def aaa():
     print('a')
 
